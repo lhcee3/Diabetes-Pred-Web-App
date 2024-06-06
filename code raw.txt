@@ -1,0 +1,3 @@
+https://colab.research.google.com/drive/1deA_h_nhCU8_a-jqfquHaJzKaxz3Jln_?usp=sharing  - Parkinsons disease colab file
+https://colab.research.google.com/drive/1MG7ypyjOwchxwWFK-amNStv1wvXWud_G?usp=sharing  - heart disease colab file 
+https://colab.research.google.com/drive/1oZM13t6ekyEqpUd3BO-pUYsci94phKDY?usp=sharing  - diabetes colab file
